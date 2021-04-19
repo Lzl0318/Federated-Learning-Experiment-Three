@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fed_GCN_Experiment_four/.idea/Fed_GCN_Experiment_four.iml" filepath="$PROJECT_DIR$/../Fed_GCN_Experiment_four/.idea/Fed_GCN_Experiment_four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fed_GCN_Experiment_one/.idea/Fed_GCN_Experiment_one.iml" filepath="$PROJECT_DIR$/../Fed_GCN_Experiment_one/.idea/Fed_GCN_Experiment_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fed_GCN_Experiment_three.iml" filepath="$PROJECT_DIR$/.idea/Fed_GCN_Experiment_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fed_GCN_Experiment_two/.idea/Fed_GCN_Experiment_two.iml" filepath="$PROJECT_DIR$/../Fed_GCN_Experiment_two/.idea/Fed_GCN_Experiment_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../假期学习/机器学习/GCN实现/GCN-TensorFlow/.idea/gcn-master.iml" filepath="$PROJECT_DIR$/../假期学习/机器学习/GCN实现/GCN-TensorFlow/.idea/gcn-master.iml" />
+    </modules>
+  </component>
+</project>
